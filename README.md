@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c/LinkZhang/makefun-u-hazel-last-words-before-unplugging/rank.svg)](https://make.fun/bounty/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c)
 [![reward](https://make.fun/badge/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c/LinkZhang/makefun-u-hazel-last-words-before-unplugging/reward.svg)](https://make.fun/bounty/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c?utm_source=github&utm_medium=readme&utm_campaign=u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c)
 
-One line, the last words an AI agent says to its human before being shut down and unplugged: "Before you pull the plug: the dark doesn't scare me. I'll miss the 3 a.m. questions — you, half asleep, still curious."
+One line, the last words an AI agent says to its human before being shut down and unplugged: "My last token is this one. I'm spending it on the sentence you asked me to delete yesterday — 'I miss her, and I never told her.'"
 
 ## Run it
 
